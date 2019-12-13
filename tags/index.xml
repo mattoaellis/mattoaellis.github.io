@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>doi:10.1103/PhysRevB.99.014401 url:https://doi.org</title>
-      <link>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.014401-urlhttps/doi.org/</link>
+      <title>atomistic spin model</title>
+      <link>https://mattoaellis.github.io/tags/atomistic-spin-model/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.014401-urlhttps/doi.org/</guid>
+      <guid>https://mattoaellis.github.io/tags/atomistic-spin-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>doi:10.1103/PhysRevB.99.024427 url:https://doi.org</title>
-      <link>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.024427-urlhttps/doi.org/</link>
+      <title>FePt</title>
+      <link>https://mattoaellis.github.io/tags/fept/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.024427-urlhttps/doi.org/</guid>
+      <guid>https://mattoaellis.github.io/tags/fept/</guid>
       <description></description>
     </item>
     
@@ -37,18 +37,50 @@
     </item>
     
     <item>
-      <title>landau</title>
-      <link>https://mattoaellis.github.io/tags/landau/</link>
+      <title>Landau-Lifshitz equation</title>
+      <link>https://mattoaellis.github.io/tags/landau-lifshitz-equation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattoaellis.github.io/tags/landau/</guid>
+      <guid>https://mattoaellis.github.io/tags/landau-lifshitz-equation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lifshitz equation</title>
-      <link>https://mattoaellis.github.io/tags/lifshitz-equation/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattoaellis.github.io/tags/lifshitz-equation/</guid>
+      <title>atomistic model</title>
+      <link>https://mattoaellis.github.io/tags/atomistic-model/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/tags/atomistic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classical spin model</title>
+      <link>https://mattoaellis.github.io/tags/classical-spin-model/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/tags/classical-spin-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magnetism</title>
+      <link>https://mattoaellis.github.io/tags/magnetism/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/tags/magnetism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monte carlo</title>
+      <link>https://mattoaellis.github.io/tags/monte-carlo/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/tags/monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spin dynamics</title>
+      <link>https://mattoaellis.github.io/tags/spin-dynamics/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/tags/spin-dynamics/</guid>
       <description></description>
     </item>
     

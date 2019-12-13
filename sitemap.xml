@@ -13,17 +13,17 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tags/atomistic-spin-model/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.014401-urlhttps/doi.org/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/doi10.1103/physrevb.99.024427-urlhttps/doi.org/</loc>
+    <loc>https://mattoaellis.github.io/tags/fept/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +143,7 @@
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tags/landau/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/lifshitz-equation/</loc>
+    <loc>https://mattoaellis.github.io/tags/landau-lifshitz-equation/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,6 +218,51 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tags/atomistic-model/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/classical-spin-model/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/magnetism/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/monte-carlo/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/authors/p-chureemart/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/authors/r-f-l-evans/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/spin-dynamics/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/authors/w-j-fan/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/publication/ellis-2012/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -234,11 +274,6 @@
   
   <url>
     <loc>https://mattoaellis.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
