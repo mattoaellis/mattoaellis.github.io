@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/</link>
       <atom:link href="https://mattoaellis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Matt Ellis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 14:41:26 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/img/icon-192.png</url>
       <title>Matt Ellis</title>
       <link>https://mattoaellis.github.io/</link>
     </image>
+    
+    <item>
+      <title>DWPC</title>
+      <link>https://mattoaellis.github.io/project/dwpc/</link>
+      <pubDate>Fri, 13 Dec 2019 14:41:26 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/project/dwpc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomalous damping dependence of the switching time in Fe/FePt bilayer recording media</title>
