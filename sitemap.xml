@@ -223,66 +223,6 @@
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tags/atomistic-model/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/classical-spin-model/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/in-colour-only-in/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/magnetism/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/monte-carlo/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/authors/p-chureemart/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/authors/r-f-l-evans/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/some-figures-may-appear/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/spin-dynamics/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/the-online-journal/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/authors/w-j-fan/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mattoaellis.github.io/publication/ellis-2012/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -294,6 +234,11 @@
   
   <url>
     <loc>https://mattoaellis.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -77,19 +77,32 @@
     </item>
     
     <item>
-      <title>Atomistic spin model simulations of magnetic nanomaterials</title>
-      <link>https://mattoaellis.github.io/publication/evans-2014/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattoaellis.github.io/publication/evans-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Classical spin model of the relaxation dynamics of rare-earth doped permalloy</title>
       <link>https://mattoaellis.github.io/publication/ellis-2012/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       <guid>https://mattoaellis.github.io/publication/ellis-2012/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mattoaellis.github.io/publication/evans-2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/evans-2014/</guid>
+      <description>&lt;p&gt;featured = true&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;doi-1010880953-89842610103202&#34;&gt;title: &amp;ldquo;Atomistic spin model simulations of magnetic nanomaterials&amp;rdquo;
+date: 2014-03-01
+publishDate: 2019-12-13T14:25:44.978911Z
+authors: [&amp;ldquo;R F L Evans&amp;rdquo;, &amp;ldquo;W J Fan&amp;rdquo;, &amp;ldquo;P Chureemart&amp;rdquo;, &amp;ldquo;T. A. Ostler&amp;rdquo;, &amp;ldquo;M O A Ellis&amp;rdquo;, &amp;ldquo;R W Chantrell&amp;rdquo;]
+publication_types: [&amp;ldquo;2&amp;rdquo;]
+abstract: &amp;ldquo;Atomistic modelling of magnetic materials provides unprecedented detail about the underlying physical processes that govern their macroscopic properties, and allows the simulation of complex effects such as surface anisotropy, ultrafast laser-induced spin dynamics, exchange bias, and microstructural effects. Here we present the key methods used in atomistic spin models which are then applied to a range of magnetic problems. We detail the parallelization strategies used which enable the routine simulation of extended systems with full atomistic resolution.&amp;rdquo;
+featured: false
+publication: &amp;ldquo;&lt;em&gt;J. Phys. Condens. Matter&lt;/em&gt;&amp;rdquo;
+tags: [&amp;ldquo;atomistic model&amp;rdquo;, &amp;ldquo;classical spin model&amp;rdquo;, &amp;ldquo;in colour only in&amp;rdquo;, &amp;ldquo;magnetism&amp;rdquo;, &amp;ldquo;monte carlo&amp;rdquo;, &amp;ldquo;some figures may appear&amp;rdquo;, &amp;ldquo;spin dynamics&amp;rdquo;, &amp;ldquo;the online journal&amp;rdquo;]
+url_pdf: &amp;ldquo;&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/pubmed/24552692&#34;&gt;http://www.ncbi.nlm.nih.gov/pubmed/24552692&lt;/a&gt; &lt;a href=&#34;http://stacks.iop.org/0953-8984/26/i=10/a=103202?key=crossref.35b3adced000154cce4ec0829569890b%22&#34;&gt;http://stacks.iop.org/0953-8984/26/i=10/a=103202?key=crossref.35b3adced000154cce4ec0829569890b&amp;quot;&lt;/a&gt;
+doi: &amp;ldquo;10.1088/0953-8984/26/10/103202&amp;rdquo;&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
