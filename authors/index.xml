@@ -5,12 +5,244 @@
     <link>https://mattoaellis.github.io/authors/</link>
       <atom:link href="https://mattoaellis.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://mattoaellis.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Mario Galante</title>
+      <link>https://mattoaellis.github.io/authors/mario-galante/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/mario-galante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew O. A. Ellis</title>
+      <link>https://mattoaellis.github.io/authors/matthew-o.-a.-ellis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/matthew-o.-a.-ellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razvan-V. Ababei</title>
+      <link>https://mattoaellis.github.io/authors/razvan-v.-ababei/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/razvan-v.-ababei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard F. L. Evans</title>
+      <link>https://mattoaellis.github.io/authors/richard-f.-l.-evans/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/richard-f.-l.-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roy W. Chantrell</title>
+      <link>https://mattoaellis.github.io/authors/roy-w.-chantrell/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/roy-w.-chantrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Sanvito</title>
+      <link>https://mattoaellis.github.io/authors/stefano-sanvito/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/stefano-sanvito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Stamenova</title>
+      <link>https://mattoaellis.github.io/authors/maria-stamenova/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/maria-stamenova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew O A Ellis</title>
+      <link>https://mattoaellis.github.io/authors/matthew-o-a-ellis/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/matthew-o-a-ellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razvan-v Ababei</title>
+      <link>https://mattoaellis.github.io/authors/razvan-v-ababei/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/razvan-v-ababei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard F L Evans</title>
+      <link>https://mattoaellis.github.io/authors/richard-f-l-evans/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/richard-f-l-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roger Wood</title>
+      <link>https://mattoaellis.github.io/authors/roger-wood/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/roger-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roy W Chantrell</title>
+      <link>https://mattoaellis.github.io/authors/roy-w-chantrell/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/roy-w-chantrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric E. Fullerton</title>
+      <link>https://mattoaellis.github.io/authors/eric-e.-fullerton/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/eric-e.-fullerton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Barker</title>
+      <link>https://mattoaellis.github.io/authors/j.-barker/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/j.-barker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M O A Ellis</title>
+      <link>https://mattoaellis.github.io/authors/m-o-a-ellis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/m-o-a-ellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. O. A. Ellis</title>
+      <link>https://mattoaellis.github.io/authors/m.-o.-a.-ellis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/m.-o.-a.-ellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Chubykalo-Fesenko</title>
+      <link>https://mattoaellis.github.io/authors/o.-chubykalo-fesenko/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/o.-chubykalo-fesenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R W Chantrell</title>
+      <link>https://mattoaellis.github.io/authors/r-w-chantrell/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/r-w-chantrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. F. L. Evans</title>
+      <link>https://mattoaellis.github.io/authors/r.-f.-l.-evans/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/r.-f.-l.-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. W. Chantrell</title>
+      <link>https://mattoaellis.github.io/authors/r.-w.-chantrell/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/r.-w.-chantrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. A. Ostler</title>
+      <link>https://mattoaellis.github.io/authors/t.-a.-ostler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/t.-a.-ostler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Atxitia</title>
+      <link>https://mattoaellis.github.io/authors/u.-atxitia/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/u.-atxitia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denise Hinzke</title>
+      <link>https://mattoaellis.github.io/authors/denise-hinzke/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/denise-hinzke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas A Ostler</title>
+      <link>https://mattoaellis.github.io/authors/thomas-a-ostler/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/thomas-a-ostler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulrich Nowak</title>
+      <link>https://mattoaellis.github.io/authors/ulrich-nowak/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/ulrich-nowak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Chureemart</title>
+      <link>https://mattoaellis.github.io/authors/p-chureemart/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/p-chureemart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R F L Evans</title>
+      <link>https://mattoaellis.github.io/authors/r-f-l-evans/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/r-f-l-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W J Fan</title>
+      <link>https://mattoaellis.github.io/authors/w-j-fan/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/w-j-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T A Ostler</title>
+      <link>https://mattoaellis.github.io/authors/t-a-ostler/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/authors/t-a-ostler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

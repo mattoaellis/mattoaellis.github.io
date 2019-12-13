@@ -5,12 +5,92 @@
     <link>https://mattoaellis.github.io/publication/</link>
       <atom:link href="https://mattoaellis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://mattoaellis.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Anomalous damping dependence of the switching time in Fe/FePt bilayer recording media</title>
+      <link>https://mattoaellis.github.io/publication/ababei-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ababei-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nontrivial spatial dependence of the spin torques in L10 FePt-based tunneling junctions</title>
+      <link>https://mattoaellis.github.io/publication/galante-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/galante-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale modeling of current-induced switching in magnetic tunnel junctions using ab initio spin-transfer torques</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2017-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifestation of higher-order inter-granular exchange in magnetic recording media</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2017-a/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-optical switching in granular ferromagnets caused by magnetic circular dichroism</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching times of nanoscale FePt: Finite size effects on the linear reversal mechanism</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2015-fe-pt/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2015-fe-pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Landau–Lifshitz equation in atomistic models</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2015-ll/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2015-ll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-dependent ferromagnetic resonance via the Landau-Lifshitz-Bloch equation: Application to FePt</title>
+      <link>https://mattoaellis.github.io/publication/ostler-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ostler-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomistic spin model simulations of magnetic nanomaterials</title>
+      <link>https://mattoaellis.github.io/publication/evans-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/evans-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical spin model of the relaxation dynamics of rare-earth doped permalloy</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2012/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
