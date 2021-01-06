@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Matt Ellis</title>
+    <title>Publications | Dr Matthew Ellis</title>
     <link>https://mattoaellis.github.io/publication/</link>
       <atom:link href="https://mattoaellis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mattoaellis.github.io/img/icon-192.png</url>
+      <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://mattoaellis.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Role of longitudinal fluctuations in L10 FePt</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomalous damping dependence of the switching time in Fe/FePt bilayer recording media</title>
