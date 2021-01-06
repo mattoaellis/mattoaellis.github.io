@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gilbert Damping | Dr Matthew Ellis</title>
+    <link>https://mattoaellis.github.io/tag/gilbert-damping/</link>
+      <atom:link href="https://mattoaellis.github.io/tag/gilbert-damping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gilbert Damping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gilbert Damping</title>
+      <link>https://mattoaellis.github.io/tag/gilbert-damping/</link>
+    </image>
+    
+    <item>
+      <title>Classical spin model of the relaxation dynamics of rare-earth doped permalloy</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

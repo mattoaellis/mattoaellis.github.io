@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Granular Recording Media | Dr Matthew Ellis</title>
+    <link>https://mattoaellis.github.io/tag/granular-recording-media/</link>
+      <atom:link href="https://mattoaellis.github.io/tag/granular-recording-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Granular Recording Media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Granular Recording Media</title>
+      <link>https://mattoaellis.github.io/tag/granular-recording-media/</link>
+    </image>
+    
+    <item>
+      <title>Manifestation of higher-order inter-granular exchange in magnetic recording media</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2017-a/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-optical switching in granular ferromagnets caused by magnetic circular dichroism</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching times of nanoscale FePt: Finite size effects on the linear reversal mechanism</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2015-fe-pt/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2015-fe-pt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

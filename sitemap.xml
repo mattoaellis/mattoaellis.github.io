@@ -38,6 +38,26 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/fept/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/ferromagnetic-resonance/</loc>
+    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/longituindal-dynamics/</loc>
+    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
@@ -68,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tags/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -78,18 +103,18 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tag/ab-initio/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/publication/ababei-2019/</loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
+    <loc>https://mattoaellis.github.io/tag/magnetic-tunnel-junctions/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tag/fept/</loc>
-    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
   
   <url>
@@ -118,17 +143,22 @@
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tags/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mattoaellis.github.io/publication/ellis-2017-b/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/multiscale-modelling/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/granular-recording-media/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
@@ -155,6 +185,11 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/all-optical-switching/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
@@ -188,27 +223,12 @@
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tag/landau/</loc>
-    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tag/lifshitz-equation/</loc>
-    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+    <loc>https://mattoaellis.github.io/tag/landau-lifshitz-equation/</loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
   
@@ -219,7 +239,7 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
   
   <url>
@@ -258,6 +278,11 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tag/landau-lifshitz-bloch/</loc>
+    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/publication/ostler-2014/</loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
@@ -278,7 +303,17 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/tag/classical-spin-model/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
@@ -293,22 +328,22 @@
   </url>
   
   <url>
+    <loc></loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/tag/spin-dynamics/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication/evans-2014/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
@@ -323,12 +358,18 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://mattoaellis.github.io/tag/gilbert-damping/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tag/doi10.1103/physrevb.99.014401-urlhttps/doi.org/</loc>
+    <loc>https://mattoaellis.github.io/tag/rare-earths/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>

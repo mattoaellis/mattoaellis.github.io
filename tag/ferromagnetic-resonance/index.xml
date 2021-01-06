@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ferromagnetic Resonance | Dr Matthew Ellis</title>
+    <link>https://mattoaellis.github.io/tag/ferromagnetic-resonance/</link>
+      <atom:link href="https://mattoaellis.github.io/tag/ferromagnetic-resonance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ferromagnetic Resonance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ferromagnetic Resonance</title>
+      <link>https://mattoaellis.github.io/tag/ferromagnetic-resonance/</link>
+    </image>
+    
+    <item>
+      <title>Role of longitudinal fluctuations in L10 FePt</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-dependent ferromagnetic resonance via the Landau-Lifshitz-Bloch equation: Application to FePt</title>
+      <link>https://mattoaellis.github.io/publication/ostler-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ostler-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

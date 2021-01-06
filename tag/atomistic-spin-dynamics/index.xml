@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
       <atom:link href="https://mattoaellis.github.io/tag/atomistic-spin-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Atomistic Spin Dynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Atomistic Spin Dynamics</title>
       <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
     </image>
+    
+    <item>
+      <title>Role of longitudinal fluctuations in L10 FePt</title>
+      <link>https://mattoaellis.github.io/publication/ellis-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/ellis-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomalous damping dependence of the switching time in Fe/FePt bilayer recording media</title>
