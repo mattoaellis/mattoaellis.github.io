@@ -83,6 +83,16 @@
   </url>
   
   <url>
+    <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/fept/</loc>
+    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
@@ -104,6 +114,11 @@
   
   <url>
     <loc></loc>
+    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
@@ -153,16 +168,6 @@
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mattoaellis.github.io/project/stochastics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -175,11 +180,6 @@
   <url>
     <loc>https://mattoaellis.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
@@ -329,10 +329,6 @@
   
   <url>
     <loc>https://mattoaellis.github.io/tag/doi10.1103/physrevb.99.014401-urlhttps/doi.org/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tag/doi10.1103/physrevb.99.024427-urlhttps/doi.org/</loc>
   </url>
   
   <url>
