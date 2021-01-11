@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mattoaellis.github.io/</loc>
-    <lastmod>2021-01-06T16:47:13+00:00</lastmod>
+    <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mattoaellis.github.io/post/new-year/</loc>
-    <lastmod>2021-01-06T16:47:13+00:00</lastmod>
+    <loc>https://mattoaellis.github.io/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/echo-state-networks/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mattoaellis.github.io/post/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/post/upcoming-papers/</loc>
+    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/post/new-year/</loc>
     <lastmod>2021-01-06T16:47:13+00:00</lastmod>
   </url>
   
@@ -34,11 +54,6 @@
   
   <url>
     <loc>https://mattoaellis.github.io/publication-type/2/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
@@ -84,11 +99,6 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   

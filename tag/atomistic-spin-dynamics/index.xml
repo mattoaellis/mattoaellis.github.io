@@ -5,12 +5,28 @@
     <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
       <atom:link href="https://mattoaellis.github.io/tag/atomistic-spin-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Atomistic Spin Dynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 09:16:03 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Atomistic Spin Dynamics</title>
       <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
     </image>
+    
+    <item>
+      <title>Upcoming Papers</title>
+      <link>https://mattoaellis.github.io/post/upcoming-papers/</link>
+      <pubDate>Mon, 11 Jan 2021 09:16:03 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/post/upcoming-papers/</guid>
+      <description>&lt;p&gt;It was nice early Christmas present that we heard that two of our recent submissions had been accepted.
+The first was invited article in Frontiers in Applied Mathematics and Statistics where we have been looking
+at hierarchical (or deep) echo state networks and how we can tune them to exhibit multiple timescales.
+The abstract is available on the Frontiers &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fams.2020.616658/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webpage&lt;/a&gt; and the full article should be available soon.&lt;/p&gt;
+&lt;p&gt;The second was a collaboration with the University of York that has been ongoing since my PhD. This is developing a combined model of spin and moelcular dynamics which are
+simulated concurrently. A few models of spin-lattice dynamics have been proposed already but here we present some novel results of the Gilbert damping caused by the coupling
+of the spin system to lattice. This is a very interesting topic and we will be using our model to explore spin-lattice dynamics in the future. Whilst the article is not yet out
+at Physical Review B, the pre-print can be found on Arxiv &lt;a href=&#34;https://arxiv.org/abs/2010.00642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Role of longitudinal fluctuations in L10 FePt</title>
