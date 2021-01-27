@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
       <atom:link href="https://mattoaellis.github.io/tag/atomistic-spin-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Atomistic Spin Dynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 09:16:03 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 10:24:20 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Atomistic Spin Dynamics</title>
       <link>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</link>
     </image>
+    
+    <item>
+      <title>Spin-lattice dynamics model with angular momentum transfer for canonical and microcanonical ensembles</title>
+      <link>https://mattoaellis.github.io/publication/strungaru-2021/</link>
+      <pubDate>Tue, 19 Jan 2021 10:24:20 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/strungaru-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Upcoming Papers</title>

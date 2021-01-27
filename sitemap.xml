@@ -3,13 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication-type/2/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattoaellis.github.io/tag/atomistic-spin-dynamics/</loc>
-    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mattoaellis.github.io/</loc>
-    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/gilbert-damping/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tag/mageto-elastic-coupling/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication_types/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/publication/strungaru-2021/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattoaellis.github.io/tags/</loc>
+    <lastmod>2021-01-19T10:24:20+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +89,6 @@
   
   <url>
     <loc>https://mattoaellis.github.io/post/</loc>
-    <lastmod>2021-01-11T09:16:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tags/</loc>
     <lastmod>2021-01-11T09:16:03+00:00</lastmod>
   </url>
   
@@ -45,16 +110,6 @@
   <url>
     <loc>https://mattoaellis.github.io/talk/stochastic-domain-wall-dynamics-for-machine-learning/</loc>
     <lastmod>2020-12-08T14:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication-type/2/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
@@ -80,16 +135,6 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication_types/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/publication/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
@@ -128,11 +173,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mattoaellis.github.io/publication/galante-2019/</loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
   </url>
@@ -140,16 +180,6 @@
   <url>
     <loc></loc>
     <lastmod>2021-01-06T16:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
   <url>
@@ -364,11 +394,6 @@
   
   <url>
     <loc>https://mattoaellis.github.io/publication/ellis-2012/</loc>
-    <lastmod>2021-01-06T16:42:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattoaellis.github.io/tag/gilbert-damping/</loc>
     <lastmod>2021-01-06T16:42:21+00:00</lastmod>
   </url>
   
