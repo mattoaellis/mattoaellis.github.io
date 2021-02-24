@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/publication-type/2/</link>
       <atom:link href="https://mattoaellis.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 10:24:20 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 22:30:18 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://mattoaellis.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Dynamically-Driven Emergence in a Nanomagnetic System</title>
+      <link>https://mattoaellis.github.io/publication/dawidek-2021/</link>
+      <pubDate>Wed, 24 Feb 2021 22:30:18 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/dawidek-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spin-lattice dynamics model with angular momentum transfer for canonical and microcanonical ensembles</title>
