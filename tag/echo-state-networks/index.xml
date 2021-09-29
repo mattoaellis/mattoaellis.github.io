@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/tag/echo-state-networks/</link>
       <atom:link href="https://mattoaellis.github.io/tag/echo-state-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Echo State Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 09:16:03 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 15:29:41 +0100</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Echo State Networks</title>
       <link>https://mattoaellis.github.io/tag/echo-state-networks/</link>
     </image>
+    
+    <item>
+      <title>Exploiting Multiple Timescales in Hierarchical Echo State Networks</title>
+      <link>https://mattoaellis.github.io/publication/manneschi-2021/</link>
+      <pubDate>Wed, 17 Feb 2021 15:29:41 +0100</pubDate>
+      <guid>https://mattoaellis.github.io/publication/manneschi-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Upcoming Papers</title>

@@ -5,7 +5,7 @@
     <link>https://mattoaellis.github.io/publication/</link>
       <atom:link href="https://mattoaellis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 22:30:18 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 15:38:39 +0100</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Voltage-controlled superparamagnetic ensembles for low-power reservoir computing</title>
+      <link>https://mattoaellis.github.io/publication/welbourne-2021/</link>
+      <pubDate>Mon, 17 May 2021 15:38:39 +0100</pubDate>
+      <guid>https://mattoaellis.github.io/publication/welbourne-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamically-Driven Emergence in a Nanomagnetic System</title>
       <link>https://mattoaellis.github.io/publication/dawidek-2021/</link>
       <pubDate>Wed, 24 Feb 2021 22:30:18 +0000</pubDate>
       <guid>https://mattoaellis.github.io/publication/dawidek-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Multiple Timescales in Hierarchical Echo State Networks</title>
+      <link>https://mattoaellis.github.io/publication/manneschi-2021/</link>
+      <pubDate>Wed, 17 Feb 2021 15:29:41 +0100</pubDate>
+      <guid>https://mattoaellis.github.io/publication/manneschi-2021/</guid>
       <description></description>
     </item>
     

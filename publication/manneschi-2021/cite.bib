@@ -1,0 +1,12 @@
+@ARTICLE{10.3389/fams.2020.616658,
+AUTHOR={Manneschi, Luca and Ellis, Matthew O. A. and Gigante, Guido and Lin, Andrew C. and Del Giudice, Paolo and Vasilaki, Eleni},
+TITLE={Exploiting Multiple Timescales in Hierarchical Echo State Networks},
+JOURNAL={Frontiers in Applied Mathematics and Statistics},
+VOLUME={6},
+PAGES={76},
+YEAR={2021},
+URL={https://www.frontiersin.org/article/10.3389/fams.2020.616658},
+DOI={10.3389/fams.2020.616658},
+ISSN={2297-4687},
+ABSTRACT={Echo state networks (ESNs) are a powerful form of reservoir computing that only require training of linear output weights while the internal reservoir is formed of fixed randomly connected neurons. With a correctly scaled connectivity matrix, the neurons’ activity exhibits the echo-state property and responds to the input dynamics with certain timescales. Tuning the timescales of the network can be necessary for treating certain tasks, and some environments require multiple timescales for an efficient representation. Here we explore the timescales in hierarchical ESNs, where the reservoir is partitioned into two smaller linked reservoirs with distinct properties. Over three different tasks (NARMA10, a reconstruction task in a volatile environment, and psMNIST), we show that by selecting the hyper-parameters of each partition such that they focus on different timescales, we achieve a significant performance improvement over a single ESN. Through a linear analysis, and under the assumption that the timescales of the first partition are much shorter than the second’s (typically corresponding to optimal operating conditions), we interpret the feedforward coupling of the partitions in terms of an effective representation of the input signal, provided by the first partition to the second, whereby the instantaneous input signal is expanded into a weighted combination of its time derivatives. Furthermore, we propose a data-driven approach to optimise the hyper-parameters through a gradient descent optimisation method that is an online approximation of backpropagation through time. We demonstrate the application of the online learning rule across all the tasks considered.}
+}

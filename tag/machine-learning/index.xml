@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/tag/machine-learning/</link>
       <atom:link href="https://mattoaellis.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 22:30:18 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Machine Learning</title>
       <link>https://mattoaellis.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Dynamically-Driven Emergence in a Nanomagnetic System</title>
+      <link>https://mattoaellis.github.io/publication/dawidek-2021/</link>
+      <pubDate>Wed, 24 Feb 2021 22:30:18 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/publication/dawidek-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Stochasticity to Functionality</title>
