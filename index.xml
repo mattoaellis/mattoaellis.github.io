@@ -5,12 +5,20 @@
     <link>https://mattoaellis.github.io/</link>
       <atom:link href="https://mattoaellis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr Matthew Ellis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 15:38:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mattoaellis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dr Matthew Ellis</title>
       <link>https://mattoaellis.github.io/</link>
     </image>
+    
+    <item>
+      <title>Joint MMM Intermag 2022</title>
+      <link>https://mattoaellis.github.io/talk/joint-mmm-intermag-2022/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/talk/joint-mmm-intermag-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Voltage-controlled superparamagnetic ensembles for low-power reservoir computing</title>
