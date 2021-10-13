@@ -40,5 +40,29 @@ from home, 2021 is looking similar so far but fingers crossed for a productive a
 </description>
     </item>
     
+    <item>
+      <title>Recent Articles</title>
+      <link>https://mattoaellis.github.io/post/recent-articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mattoaellis.github.io/post/recent-articles/</guid>
+      <description>&lt;p&gt;Due to the pandemic a couple of my projects ended up being a little later than planned so in the last few months
+we have had a couple more articles published on our neuromorphic and reservoir computing work. The first paper was published
+in Advanced Functional Materials on the emergent dynamics in a set of magnetic rings that we found could be used for reservoir computing.
+The experimental work was performed by researchers in the Department of Materials Science who manufactured and measured the
+properties of a grid of interconnected rings. The domain walls in these rings become pinned at the interfaces and can interact
+causing the emergent dynamics. As a reservoir it has a range of important properties (fading memory, non-linearity, etc) and we
+found excellent performance on a speech recognition task. The paper is available &lt;a href=&#34;https://doi.org/10.1002/adfm.202008389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The next paper was an invited paper in Applied Physics Letters for a special topic on Mesoscopic Magnetic Systems in which we introduced
+a novel reservoir based on thermally activated magnetic dots. While it might appear that the stochastic behaviour of
+these dots do not have much to offer, we found by applying a voltage controlled anisotropy we can tune the relaxation
+rates from one orientiation to another. Importantly this system is low energy so could find use in edge-computing
+systems where energy is limited. You can find the full article &lt;a href=&#34;https://doi.org/10.1063/5.0048911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Most recently we have puclished our work on a non-linear domain wall oscillator as a physical reservoir. This was again
+in collaboration with Materials Science and we built a 1D model of the domain wall motion when it is pinned between
+two anti-notches. The pinning potential exhibits chaotic behaviour for fields upto 1.2 KA/m and a non-linear response beyond
+this. From this we could train it using the reservoir computing approach and found good performance on a set of tasks. You can read more &lt;a href=&#34;https://www.nature.com/articles/s41598-021-94975-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
